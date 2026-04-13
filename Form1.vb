@@ -1,7 +1,7 @@
 ﻿Public Class Form1
     Dim tc() As Doubleeeee
     Dim tr() As Double 'hello
-    Dim pc() As Double
+    Dim pc() As Double  'edit 2
     Dim y() As Double
     Dim aij(,) As Double
     Dim q() As Double
