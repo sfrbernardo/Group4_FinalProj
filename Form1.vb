@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     Dim tc() As Double
-    Dim tr() As Double hello
+    Dim tr() As Double
     Dim pc() As Double  
     Dim y() As Double
     Dim aij(,) As Double
